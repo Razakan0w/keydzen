@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+}
+body{
+  background: #1E2024;
+  font-family: 'Poppins', sans-serif;
+}
+.container{
+  width: 90%;
+  margin: 0 auto;
+}
+button{
+  transition: .5s;
+}
+button:hover{
+  transform: scale(1.1);
+  background: none;
+}
