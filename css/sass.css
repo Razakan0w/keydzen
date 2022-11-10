@@ -79,7 +79,7 @@ button:hover {
 #hero .hero img {
   position: absolute;
   width: 100%;
-  height: 50%;
+  height: 30%;
   bottom: 0;
   left: 0;
 }
@@ -343,7 +343,6 @@ button:hover {
   height: 100%;
 }
 #lob .lob .swiper-slide {
-  text-align: center;
   font-size: 18px;
   /* Center slide text vertically */
   display: -webkit-box;
@@ -360,7 +359,7 @@ button:hover {
   align-items: center;
 }
 #lob .lob .swiper-slide h2 {
-  padding: 40px 30px;
+  padding: 40px 50px;
   font-weight: 900;
   font-size: 64px;
   color: #FFFFFF;
