@@ -152,6 +152,10 @@
   .container {
     width: 90%;
   }
+  #intro .intro--group {
+    display: flex;
+    flex-direction: column;
+  }
 }
 @media (max-width: 481px) {
   .container {
